@@ -1,0 +1,1 @@
+Create a parent object and place the low man inside, attach both scripts and assign the animator controller to humanoid and the avatar to lowbodyavatar
